@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Korwit
+- 👋 Hi, I’m Korwit Kolang
 - 👀 I’m interested in C and C++ programming
 - 🌱 I’m currently learning C and C++ programming
 - 💞️ I’m looking to collaborate on ...
